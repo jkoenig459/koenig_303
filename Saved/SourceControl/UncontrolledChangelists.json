@@ -15,7 +15,9 @@
 				"C:/Users/relic/Desktop/SNHU/GAM-303/Final Project/Content/Interactables/Interact.uasset",
 				"C:/Users/relic/Desktop/SNHU/GAM-303/Final Project/Content/Inputs/Input_Interact.uasset",
 				"C:/Users/relic/Desktop/SNHU/GAM-303/Final Project/Content/Inputs/Input_Jump.uasset",
-				"C:/Users/relic/Desktop/SNHU/GAM-303/Final Project/Content/Inputs/Input_Look.uasset"
+				"C:/Users/relic/Desktop/SNHU/GAM-303/Final Project/Content/Inputs/Input_Look.uasset",
+				"C:/Users/relic/Desktop/SNHU/GAM-303/Final Project/Content/Interactables/BP_Collectible_Pickup.uasset",
+				"C:/Users/relic/Desktop/SNHU/GAM-303/Final Project/Content/Interactables/BP_Physics_Pickup.uasset"
 			]
 		}
 	]
